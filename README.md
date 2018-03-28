@@ -1,2 +1,14 @@
-# tdx18-kaydub
-Kelly's Github repository
+# SFDX  App
+
+## Dev, Build and Test
+
+
+## Resources
+
+
+## Description of Files and Directories
+
+
+## Issues
+
+
